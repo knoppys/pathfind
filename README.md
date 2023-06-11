@@ -10,7 +10,7 @@ eg. Given the map (where `.` is passable - `true`, and `#` is blocked - `false`)
 
 ```
 . P . . .
-. # # # .
+. # # # . 
 . . . . .
 . . Q . .
 . . . . .
