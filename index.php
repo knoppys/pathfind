@@ -22,17 +22,13 @@ class KnpPathFind {
         //Search the surrounding nodes for the closest valid corrd to the end 
         $this->next_move = $this->get_next_move();
 
-       //Get the surrounding nodes
-
-            //If one of the nodes is the end then add to valid steps and return the number.
-
-            //Remove false nodes
-
-        //Define the node with the shortest distance to the start as the new current position. 
-
-            //Increase the number of valid steps
-
-            //Run again
+        /**
+         * @todo
+         * 
+         * 1. Add the next positive move to the counter
+         * 2. If the next move contains the end point then return the number of moves
+         * 3. Else, loop back and find the next move
+         */
        
     }
 
